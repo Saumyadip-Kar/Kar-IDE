@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ICSharpCode.TextEditor.Extended/4.2.4": {
+        "runtime": {
+          "lib/net45/ICSharpCode.TextEditor.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ICSharpCode.TextEditor.Extended/4.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-b6qlmZcXkKNreP8hV6/l6zZuv4m3i5iL3+6+QjsBg4kZEmPnoMZ2e9QXvwvKXLjUdJx4ZFonYlQdriFUFJMrwg==",
+      "path": "icsharpcode.texteditor.extended/4.2.4",
+      "hashPath": "icsharpcode.texteditor.extended.4.2.4.nupkg.sha512"
+    }
+  }
+}

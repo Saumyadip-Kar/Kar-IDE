@@ -1,0 +1,17 @@
+E:\Projects\VS Community\Projects\Kar_IDE\bin\Debug\netcoreapp3.1\Kar_IDE.exe
+E:\Projects\VS Community\Projects\Kar_IDE\bin\Debug\netcoreapp3.1\Kar_IDE.deps.json
+E:\Projects\VS Community\Projects\Kar_IDE\bin\Debug\netcoreapp3.1\Kar_IDE.runtimeconfig.json
+E:\Projects\VS Community\Projects\Kar_IDE\bin\Debug\netcoreapp3.1\Kar_IDE.runtimeconfig.dev.json
+E:\Projects\VS Community\Projects\Kar_IDE\bin\Debug\netcoreapp3.1\Kar_IDE.dll
+E:\Projects\VS Community\Projects\Kar_IDE\bin\Debug\netcoreapp3.1\Kar_IDE.pdb
+E:\Projects\VS Community\Projects\Kar_IDE\obj\Debug\netcoreapp3.1\Kar_IDE.Form1.resources
+E:\Projects\VS Community\Projects\Kar_IDE\obj\Debug\netcoreapp3.1\Kar_IDE.MainWindow.resources
+E:\Projects\VS Community\Projects\Kar_IDE\obj\Debug\netcoreapp3.1\Kar_IDE.csproj.GenerateResource.cache
+E:\Projects\VS Community\Projects\Kar_IDE\obj\Debug\netcoreapp3.1\Kar_IDE.AssemblyInfoInputs.cache
+E:\Projects\VS Community\Projects\Kar_IDE\obj\Debug\netcoreapp3.1\Kar_IDE.AssemblyInfo.cs
+E:\Projects\VS Community\Projects\Kar_IDE\obj\Debug\netcoreapp3.1\Kar_IDE.csproj.CoreCompileInputs.cache
+E:\Projects\VS Community\Projects\Kar_IDE\obj\Debug\netcoreapp3.1\Kar_IDE.dll
+E:\Projects\VS Community\Projects\Kar_IDE\obj\Debug\netcoreapp3.1\Kar_IDE.pdb
+E:\Projects\VS Community\Projects\Kar_IDE\obj\Debug\netcoreapp3.1\Kar_IDE.genruntimeconfig.cache
+E:\Projects\VS Community\Projects\Kar_IDE\obj\Debug\netcoreapp3.1\Kar_IDE.csprojAssemblyReference.cache
+E:\Projects\VS Community\Projects\Kar_IDE\obj\Debug\netcoreapp3.1\Kar_IDE.Properties.Resources.resources

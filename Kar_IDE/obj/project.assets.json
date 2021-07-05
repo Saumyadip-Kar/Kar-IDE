@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "ICSharpCode.TextEditor.Extended/4.2.4": {
+        "type": "package",
+        "compile": {
+          "lib/net45/ICSharpCode.TextEditor.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ICSharpCode.TextEditor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ICSharpCode.TextEditor.Extended/4.2.4": {
+      "sha512": "b6qlmZcXkKNreP8hV6/l6zZuv4m3i5iL3+6+QjsBg4kZEmPnoMZ2e9QXvwvKXLjUdJx4ZFonYlQdriFUFJMrwg==",
+      "type": "package",
+      "path": "icsharpcode.texteditor.extended/4.2.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icsharpcode.texteditor.extended.4.2.4.nupkg.sha512",
+        "icsharpcode.texteditor.extended.nuspec",
+        "lib/net45/ICSharpCode.TextEditor.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "ICSharpCode.TextEditor.Extended >= 4.2.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\Kar-IDE\\Kar_IDE\\Kar_IDE.csproj",
+      "projectName": "Kar_IDE",
+      "projectPath": "C:\\Users\\hp\\Source\\Repos\\Kar-IDE\\Kar_IDE\\Kar_IDE.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\Source\\Repos\\Kar-IDE\\Kar_IDE\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "dependencies": {
+          "ICSharpCode.TextEditor.Extended": {
+            "target": "Package",
+            "version": "[4.2.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ICSharpCode.TextEditor.Extended 4.2.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ICSharpCode.TextEditor.Extended",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

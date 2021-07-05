@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "PgdIlVyLvqdegDHCymQn+uPY6skbrdss6FZltdjdYdQstTKLcgsgQ06RF68sNgZn5dN5L58cgLVphPyd1uaYIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Source\\Repos\\Kar-IDE\\Kar_IDE\\Kar_IDE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\icsharpcode.texteditor.extended\\4.2.4\\icsharpcode.texteditor.extended.4.2.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ICSharpCode.TextEditor.Extended 4.2.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ICSharpCode.TextEditor.Extended",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
